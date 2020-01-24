@@ -1,0 +1,5 @@
+1.-The relational database is where the data is stored. SQL is the language that manipulates that data, whether with CRUD operations or through adding/joining tables
+2.-Tables need a primary key because it makes it easier to monitor and organize data. Not only is it considered an essential part of the normalization process, but you can't connect tables through foreign keys unless you start with a primary key in the parent table.
+3.-foreign key
+4.-you have to have an intermediary table that contains the foreign keys from both parent tables involved. That is what allows you to make that connection.
+
